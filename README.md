@@ -73,6 +73,14 @@ Link: [Google][googlelink]
 
 [googlelink]:https://google.com "Go google"
 
+[Text to display][identifier] will display a link.
+
+[identifier]:https://www.andong.ac.kr/main/index.do
+
+[This link] will do the same as well. It works as the identifier itself.
+
+[this link]:https://www.andong.ac.kr/main/index.do
+
 
 * 외부링크: <http://naver.com/>
 
