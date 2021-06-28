@@ -23,16 +23,16 @@
 
 
 + 안녕
-+ Hello
-+ Hi
+    + Hello
+        + Hi
 
 * 안녕
-* Hello
-* Hi
+    * Hello
+        * Hi
 
 - 안녕
-- Hello
-- Hi
+    - Hello
+        - Hi
 
 
 
