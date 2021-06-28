@@ -92,7 +92,7 @@ Link: [Google][googlelink]
 
 ![campusmap_big_1](https://user-images.githubusercontent.com/86451066/123567228-9ebf4e00-d7fc-11eb-818d-f46a8a9e0582.gif)
 
-![campusmap_big_1](https://user-images.githubusercontent.com/86451066/123567228-9ebf4e00-d7fc-11eb-818d-f46a8a9e0582.gif) "width="320px" height="240px"
+![campusmap_big_1](https://user-images.githubusercontent.com/86451066/123567228-9ebf4e00-d7fc-11eb-818d-f46a8a9e0582.gif) width="320px" height="240px"
 
 
 | | 이름 | 나이 | 생일 |
